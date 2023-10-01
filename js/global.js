@@ -2,7 +2,7 @@
 Note: Please use our back link in your site
 */
 $( function() {
-        var endDate = "Sep 20, 2023 15:03:25";
+        var endDate = "Nov 15, 2023 15:03:25";
 
         $('.countdown.simple').countdown({ date: endDate });
 
